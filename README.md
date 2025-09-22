@@ -5,3 +5,6 @@
  2. Vs Code
  3. Git bash 
  4. Momgo DB
+
+flow chart - whimsical.com
+ml ops tool - evidentlyai.com
