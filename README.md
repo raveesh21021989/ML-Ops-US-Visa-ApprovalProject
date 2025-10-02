@@ -8,3 +8,13 @@
 
 flow chart - whimsical.com
 ml ops tool - evidentlyai.com
+
+# environment creation command
+
+conda create -n usvisa python=3.8 -y
+
+#ACTIVAte the environment
+
+conda activate visa
+
+pip install -r requirements.txt
